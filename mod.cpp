@@ -1,0 +1,10 @@
+name="LastResortGamer's Clothing Pack";
+author="LastResortGamer";
+logo="logo\Logo.paa";
+logoOver="logo\LogoHover.paa";
+tooltip="LastResortGamer's Clothing Pack";
+picture="logo\LogoBig.paa";
+actionName="Discord";
+action="https://discord.gg/z5YbKPu";
+overview="This is a vest pack for any server. Join the discord and request a vest in '#arma-3-vest-request' channel";
+logoSmall="logo\Logo.paa";
