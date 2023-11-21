@@ -1,2 +1,2 @@
-# Coming Soon!
-LastResortClothing Pack [Official]
+# LastResortClothing Pack [Official]
+## Coming Soon!
